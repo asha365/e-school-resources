@@ -1,0 +1,97 @@
+.container{
+    margin-bottom: 100px;
+}
+.submit1{
+    border-radius: 20px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    box-shadow: 0 9px #938B8B;
+    padding-left: 17px;
+    padding-right: 17px;
+}
+.submit{
+    border-radius: 20px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    box-shadow: 0 9px #938B8B;
+    transition: all 0.5s;
+    padding-left: 20px;
+    padding-right: 20px;
+   
+}
+.submit:hover {
+    background-color: olive;
+    color: white;
+  }
+
+
+.icon{
+    height: 60px;
+    width: 180px;
+}
+.lern{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.any{
+    color: #21B573;
+    
+}
+
+.book-categories img{
+    height: 100px;
+    width: 100px;
+}
+.icon-image{
+    float: left;
+}
+
+.icon-image img{
+    height: 20px;
+    width: 20px;
+}
+
+.testh1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.testimonial img{
+    height: 200px;
+    width: 200px;
+
+}
+.cour{
+   text-align: center; 
+   margin-bottom: 100px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+}
+
+.footer-section{
+    background-color: #282531;
+    color: #fff;
+    height:400px;
+}
+
+footer{
+    color: #fff;
+    background-color: #282531;
+    width: 100%;
+    text-align: center;
+    
+    
+}
+.copy{
+    margin-top: -100px;
+}
+
+
+
+
